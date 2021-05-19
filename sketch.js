@@ -46,4 +46,5 @@ function draw() {
     
      game.end();
    }
+   text(allPlayers[player].name, x-25, y+25)
 }
